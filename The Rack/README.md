@@ -32,4 +32,6 @@ Improvements to be made:
 
 Modify rails to accept threaded inserts for more durable connections when disassembling and reassembling. 
 
-Use, modify and redistribute these files as much as you like.
+
+
+Feel free to use, modify and redistribute these files as much as you like.
