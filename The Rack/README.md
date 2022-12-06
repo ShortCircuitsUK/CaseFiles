@@ -1,3 +1,5 @@
+![TheRack](https://user-images.githubusercontent.com/119873634/205947803-d8bb4e63-913e-4e04-8fff-626e3f370b8b.jpg)
+
 The Rack is a Eurorack style case that displays boards on top and holds other boards underneath. 
 You can hide non-display boards like the Motherboard and the Sensor Array underneath, 
 with the display boards like the Digitiser and RGB Matrix on the top.
